@@ -1,1 +1,9 @@
 ds_uniform.csv filter=lfs diff=lfs merge=lfs -text
+ds_gaussian.csv filter=lfs diff=lfs merge=lfs -text
+world_map.csv filter=lfs diff=lfs merge=lfs -text
+z_values_gaussian.csv filter=lfs diff=lfs merge=lfs -text
+z_values_uniform.csv filter=lfs diff=lfs merge=lfs -text
+z_values_uniform_sorted.csv filter=lfs diff=lfs merge=lfs -text
+z_values_world_map.csv filter=lfs diff=lfs merge=lfs -text
+z_values_world_map_sorted.csv filter=lfs diff=lfs merge=lfs -text
+world.png filter=lfs diff=lfs merge=lfs -text
